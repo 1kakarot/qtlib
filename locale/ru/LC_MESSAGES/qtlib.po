@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hscommon\n"
-"PO-Revision-Date: 2015-04-14 21:16+0000\n"
+"PO-Revision-Date: 2016-07-25 11:30+0000\n"
 "Last-Translator: Igor Fokusov <igor@fokusov.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/hscommon/language/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,51 +47,55 @@ msgstr "Закрыть"
 msgid "Go to Github"
 msgstr "Перейти на Github"
 
-#: qtlib/preferences.py:17
+#: qtlib/preferences.py:18
 msgid "English"
 msgstr "Английский"
 
-#: qtlib/preferences.py:18
+#: qtlib/preferences.py:19
 msgid "French"
 msgstr "Французский"
 
-#: qtlib/preferences.py:19
+#: qtlib/preferences.py:20
 msgid "German"
 msgstr "Немецкий"
 
-#: qtlib/preferences.py:20
+#: qtlib/preferences.py:21
+msgid "Greek"
+msgstr "Греческий"
+
+#: qtlib/preferences.py:22
 msgid "Chinese (Simplified)"
 msgstr "Китайский (упрощенный)"
 
-#: qtlib/preferences.py:21
+#: qtlib/preferences.py:23
 msgid "Czech"
 msgstr "Чешский"
 
-#: qtlib/preferences.py:22
+#: qtlib/preferences.py:24
 msgid "Italian"
 msgstr "Итальянский"
 
-#: qtlib/preferences.py:23
+#: qtlib/preferences.py:25
 msgid "Armenian"
 msgstr "Армянский"
 
-#: qtlib/preferences.py:24
+#: qtlib/preferences.py:27
 msgid "Russian"
 msgstr "Русский"
 
-#: qtlib/preferences.py:25
+#: qtlib/preferences.py:28
 msgid "Ukrainian"
 msgstr "Украинский"
 
-#: qtlib/preferences.py:26
+#: qtlib/preferences.py:29
 msgid "Dutch"
 msgstr "Голландский"
 
-#: qtlib/preferences.py:27
+#: qtlib/preferences.py:31
 msgid "Brazilian"
 msgstr "Бразильский"
 
-#: qtlib/preferences.py:28
+#: qtlib/preferences.py:32
 msgid "Spanish"
 msgstr "Испанский"
 
